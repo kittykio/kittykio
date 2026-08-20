@@ -7,14 +7,14 @@
 I build responsive, accessible web experiences with  
 **React, Next.js, TypeScript, and Django.**
 
-[Portfolio](https://meowmomo.vercel.app/) ·
-[Projects](https://github.com/meowmomo?tab=repositories) ·
+[Portfolio](https://kittykio.com/) ·
+[Projects](https://github.com/kittykio?tab=repositories) ·
 [Email](mailto:modularmanul@gmail.com)
 
 <br />
 
 <img
-  src="https://komarev.com/ghpvc/?username=meowmomo&label=Profile%20views&color=6c63ff&style=flat"
+  src="https://komarev.com/ghpvc/?username=kittykio&label=Profile%20views&color=6c63ff&style=flat"
   alt="Kiki's profile views"
 />
 
@@ -22,7 +22,7 @@ I build responsive, accessible web experiences with
 
 ## About Me
 
-- 🔭 Currently improving my [developer portfolio](https://meowmomo.vercel.app/)
+- 🔭 Currently improving my [developer portfolio](https://kittykio.com/)
 - 🌱 Learning more about responsive design and accessible user interfaces
 - 🎨 Interested in the intersection of development and UI/UX design
 - 💬 Ask me about React, Next.js, TypeScript, or Figma
