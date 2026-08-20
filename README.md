@@ -64,19 +64,19 @@ I build responsive, accessible web experiences with
 <div align="center">
 
 <img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=meowmomo&theme=tokyonight"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kittykio&theme=tokyonight"
   alt="Kiki's GitHub stats"
 />
 
 <img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=meowmomo&theme=tokyonight"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kittykio&theme=tokyonight"
   alt="Kiki's most-used languages"
 />
 
 <br />
 
 <img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=meowmomo&theme=tokyonight"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kittykio&theme=tokyonight"
   alt="Kiki's GitHub activity"
 />
 
