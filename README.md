@@ -2,83 +2,72 @@
 
 # Hi, I'm Kiki 👋
 
-### Full-Stack Developer based in Japan 🇯🇵
+### Full-stack developer and creative coder based in Japan 🇯🇵
 
-I build responsive, accessible web experiences with  
-**React, Next.js, TypeScript, and Django.**
+I design and build thoughtful web products—from reliable, data-driven applications<br />
+to playful 3D worlds and browser games.
 
-[Portfolio](https://kittykio.com/) ·
-[Projects](https://github.com/kittykio?tab=repositories) ·
-[Email](mailto:modularmanul@gmail.com)
+[Portfolio](https://kittykio.com) · [Projects](https://kittykio.com/projects) · [Email](mailto:modularmanul@gmail.com)
 
 <br />
 
-<img
-  src="https://komarev.com/ghpvc/?username=kittykio&label=Profile%20views&color=6c63ff&style=flat"
-  alt="Kiki's profile views"
-/>
+<img src="https://komarev.com/ghpvc/?username=kittykio&label=Profile%20views&color=ff6b6b&style=flat" alt="Kiki's profile views" />
 
 </div>
 
-## About Me
+## Selected work
 
-- 🔭 Currently improving my [developer portfolio](https://kittykio.com/)
-- 🌱 Learning more about responsive design and accessible user interfaces
-- 🎨 Interested in the intersection of development and UI/UX design
-- 💬 Ask me about React, Next.js, TypeScript, or Figma
-- 📫 Reach me at [modularmanul@gmail.com](mailto:modularmanul@gmail.com)
+### [Workio](https://github.com/kittykio/workio)
 
-## Tech Stack
+A Django client portal that connects freelancers, clients, projects, proposals, messages, files,
+time tracking, expenses, and invoices in one permission-aware workspace.
 
-### Frontend
+`Django` `Python` `PostgreSQL` `Full-stack`
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+### [Booktrace](https://github.com/kittykio/booktrace)
 
-### Backend
+A private reading companion with authentication, personal libraries, reading goals, statistics,
+and resilient discovery through Google Books with an Open Library fallback.
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+`Next.js` `TypeScript` `PostgreSQL` `Prisma` `Auth.js`
 
-### Tools & Workflow
+### [Kiki World](https://github.com/kittykio/kiki-world)
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
-![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white)
+An interactive 3D story where an animated avatar moves through three floating rooms with responsive
+camera work, multiple control methods, outfit switching, and adaptive performance.
 
-## GitHub Activity
+`React` `TypeScript` `React Three Fiber` `Three.js`
+
+### [Kiki Arcade](https://github.com/kittykio/kiki-arcade)
+
+A colorful collection of 14 creative toys, arcade classics, and miniature browser adventures with
+Canvas gameplay, accessible controls, local progress, and tested game logic.
+
+`JavaScript` `Vite` `Canvas` `Creative coding`
+
+## What I work with
+
+- **Frontend:** JavaScript, TypeScript, React, Next.js, HTML, CSS, Sass, and Tailwind CSS
+- **Backend:** Python, Django, Node.js, PostgreSQL, MongoDB, Prisma, and REST APIs
+- **Interactive:** Canvas, Three.js, React Three Fiber, animation, and responsive input design
+- **Product craft:** accessibility, testing, performance, UI/UX design, Git, GitHub, and Vercel
+
+## Current focus
+
+- Building complete products with strong validation, ownership rules, and useful failure states
+- Making interactive work responsive across keyboard, pointer, touch, and reduced-motion settings
+- Documenting architecture and product decisions through practical case studies
+
+## GitHub activity
 
 <div align="center">
 
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kittykio&theme=tokyonight"
-  alt="Kiki's GitHub stats"
-/>
-
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kittykio&theme=tokyonight"
-  alt="Kiki's most-used languages"
-/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kittykio&theme=tokyonight" alt="Kiki's GitHub stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kittykio&theme=tokyonight" alt="Kiki's most-used languages" />
 
 <br />
 
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kittykio&theme=tokyonight"
-  alt="Kiki's GitHub activity"
-/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kittykio&theme=tokyonight" alt="Kiki's GitHub activity" />
 
 </div>
 
@@ -86,6 +75,6 @@ I build responsive, accessible web experiences with
 
 <div align="center">
 
-Thanks for visiting! Feel free to explore my repositories or get in touch.
+Explore the full case studies at **[kittykio.com/projects](https://kittykio.com/projects)**.
 
 </div>
