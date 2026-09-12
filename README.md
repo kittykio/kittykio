@@ -48,15 +48,20 @@ Canvas gameplay, accessible controls, local progress, and tested game logic.
 ## What I work with
 
 - **Frontend:** JavaScript, TypeScript, React, Next.js, HTML, CSS, Sass, and Tailwind CSS
-- **Backend:** Python, Django, Node.js, PostgreSQL, MongoDB, Prisma, and REST APIs
+- **Backend:** Python, FastAPI, Django, Node.js, SQL, PostgreSQL, MongoDB, ORM-based data access, Prisma, and REST APIs
 - **Interactive:** Canvas, Three.js, React Three Fiber, animation, and responsive input design
+- **AI & development tools:** LLMs, Docker, Codex, Claude Code, Spec Kit, and AI-driven / specification-driven development
 - **Product craft:** accessibility, testing, performance, UI/UX design, Git, GitHub, and Vercel
 
-## Current focus
+## Current focus · September 2026
 
-- Building complete products with strong validation, ownership rules, and useful failure states
-- Making interactive work responsive across keyboard, pointer, touch, and reduced-motion settings
-- Documenting architecture and product decisions through practical case studies
+Since September 2026, I’ve been working on **[AIms Bridge](https://www.hit-inc.jp/aimsbridge/aimsbridge.html)** as a full-stack developer, using [AI-driven development](https://www.hit-inc.jp/ai/driven.html) and specification-driven workflows.
+
+My work spans React / TypeScript interfaces, Python / FastAPI services, LLMs, SQL and ORM-based data access, and Docker. I use Codex, Claude Code, and Spec Kit throughout development.
+
+My previous mobile and internet services frontend project ran from 2024 through August 2026.
+
+Outside work, I’m building **Paperform**, a paper and motion-typography studio, and expanding **[Pocket Planet](https://github.com/kittykio/pocket-planet)**, a living 3D ecosystem sandbox. [Try Pocket Planet](https://kiki-pocket-planet.vercel.app/).
 
 ## GitHub activity
 
