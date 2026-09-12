@@ -55,7 +55,7 @@ Canvas gameplay, accessible controls, local progress, and tested game logic.
 
 ## Current focus · September 2026
 
-Since September 2026, I’ve been working on **[AIms Bridge](https://www.hit-inc.jp/aimsbridge/aimsbridge.html)** as a full-stack developer, using [AI-driven development](https://www.hit-inc.jp/ai/driven.html) and specification-driven workflows.
+Since September 2026, I’ve been working as a **Full-stack Developer** on an enterprise platform that connects business data with generative AI to support information access and decision-making. I build across the frontend, API, and data layers using AI-driven and specification-driven workflows.
 
 My work spans React / TypeScript interfaces, Python / FastAPI services, LLMs, SQL and ORM-based data access, and Docker. I use Codex, Claude Code, and Spec Kit throughout development.
 
